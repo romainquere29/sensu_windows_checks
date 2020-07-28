@@ -1,0 +1,1 @@
+affed92f2fe21e4d9a579a71d98d32b3b5a8c55adea573993701dc3e96fc8ee87d41fa8c1036e46efb8e727d4de68dcc40e4889293f6bc96333fcb3335f75c8b  check-windows-network-disk-0.0.1.tar.gz
